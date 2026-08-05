@@ -5,7 +5,7 @@
 
 ## myCobot 280 X Edition - Pi（10周年限量版机械臂）
 
-<img src = "resources/10th/MYCOBOT_280_X_Edition_PI.png" width = "550" align = "center">
+<img src = "resources/10th/MYCOBOT_280_X_Edition_PI.png" align = "center">
 
 **myCobot 280 X Edition - Pi** 是 Elephant Robotics 为纪念公司成立10周年特别推出的限量版本。
 

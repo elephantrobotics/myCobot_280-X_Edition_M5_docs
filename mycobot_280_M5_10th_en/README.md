@@ -5,7 +5,7 @@ The world's smallest collaborative robot
 
 ## myCobot 280 X Edition - M5 (10th Anniversary Limited Edition Robotic Arm)
 
-<img src = "resources/10th/MYCOBOT_280_X_Edition_M5.png" width = "550" align = "center">
+<img src = "resources/10th/MYCOBOT_280_X_Edition_M5.png" align = "center">
 
 The **myCobot 280 X Edition - M5** is a special limited-edition version released to commemorate Elephant Robotics' 10th anniversary.
 

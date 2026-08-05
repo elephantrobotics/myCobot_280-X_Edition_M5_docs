@@ -5,7 +5,7 @@
 
 ## myCobot 280 X Edition - M5（10周年限量版机械臂）
 
-<img src = "resources/10th/MYCOBOT_280_X_Edition_M5.png" width = "550" align = "center">
+<img src = "resources/10th/MYCOBOT_280_X_Edition_M5.png" align = "center">
 
 **myCobot 280 X Edition - M5** 是 Elephant Robotics 为纪念公司成立10周年特别推出的限量版本。
 
