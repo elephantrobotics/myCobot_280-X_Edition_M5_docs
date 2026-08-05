@@ -1,5 +1,42 @@
-# myCobot 280 M5 (2023)
+# myCobot 280 M5
 The world's smallest collaborative robot
+
+---
+
+## myCobot 280 X Edition - M5 (10th Anniversary Limited Edition Robotic Arm)
+
+<img src = "resources/10th/MYCOBOT_280_X_Edition_M5.png" width = "550" align = "center">
+
+The **myCobot 280 X Edition - M5** is a special limited-edition version released to commemorate Elephant Robotics' 10th anniversary.
+
+Limited to **500 units worldwide**, this edition features a unique 10th anniversary color design while maintaining the same hardware specifications, software compatibility, and development experience as the **myCobot 280 M5**.
+
+The only difference between the myCobot 280 X Edition - M5 and the myCobot 280 M5 is the **external appearance design**. All core functions, performance parameters, software ecosystem, SDKs, tutorials, and compatible accessories remain unchanged.
+
+---
+
+## Compatibility Notice
+
+The **myCobot 280 X Edition - M5** is built on the same hardware platform as the **myCobot 280 M5**.
+
+Existing resources for the myCobot 280 M5, including software, SDKs, tutorials, and accessories, are fully compatible with the X Edition. Users can follow the same development guides and workflows without any additional modifications.
+
+---
+
+## Version Comparison
+
+| Feature | myCobot 280 X Edition - M5 | myCobot 280 M5 (2023) |
+| --- | --- | --- |
+| Appearance | Black and Gray | White |
+| DOF | 6-axis | 6-axis |
+| Payload | 250g | 250g |
+| Working Radius | 280mm | 280mm |
+| Software | Same | Same |
+| SDK | Same | Same |
+| ROS/ROS2 Support | Yes | Yes |
+| Accessories | Compatible | Compatible |
+
+---
 
 Core Document
 ---

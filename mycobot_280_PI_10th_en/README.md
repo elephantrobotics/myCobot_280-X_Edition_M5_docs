@@ -1,9 +1,46 @@
-# myCobot 280 pi(2023)
+# myCobot 280 Pi
 The world's smallest collaborative robot
+
+---
+
+## myCobot 280 X Edition - Pi (10th Anniversary Limited Edition Robotic Arm)
+
+<img src = "resources/10th/MYCOBOT_280_X_Edition_PI.png" width = "550" align = "center">
+
+The **myCobot 280 X Edition - Pi** is a special limited-edition version released to commemorate Elephant Robotics' 10th anniversary.
+
+Limited to **500 units worldwide**, this edition features a unique 10th anniversary color design while maintaining the same hardware specifications, software compatibility, and development experience as the **myCobot 280 Pi**.
+
+The only difference between the myCobot 280 X Edition - Pi and the myCobot 280 Pi is the **external appearance design**. All core functions, performance parameters, software ecosystem, SDKs, tutorials, and compatible accessories remain unchanged.
+
+---
+
+## Compatibility Notice
+
+The **myCobot 280 X Edition - Pi** is built on the same hardware platform as the **myCobot 280 Pi**.
+
+Existing resources for the myCobot 280 Pi, including software, SDKs, tutorials, and accessories, are fully compatible with the X Edition. Users can follow the same development guides and workflows without any additional modifications.
+
+---
+
+## Version Comparison
+
+| Feature | myCobot 280 X Edition - Pi | myCobot 280 Pi (2023) |
+| --- | --- | --- |
+| Appearance | Black and Gray | White |
+| DOF | 6-axis | 6-axis |
+| Payload | 250g | 250g |
+| Working Radius | 280mm | 280mm |
+| Software | Same | Same |
+| SDK | Same | Same |
+| ROS/ROS2 Support | Yes | Yes |
+| Accessories | Compatible | Compatible |
+
+---
 
 Core Document
 ---
-This document contains comprehensive information from product introduction, detailed technical parameters to user instructions and product development guidance. The document will introduce the basic functions of the myCobot 280 pi robot arm in depth, provide software development guidelines, and show successful application cases to help you understand how to effectively integrate myCobot 280 pi into various applications. In addition, we also provide a wealth of support and service information to ensure that you can get the necessary help when you encounter any technical challenges.
+This document contains comprehensive information from product introduction, detailed technical parameters to user instructions and product development guidance. The document will introduce the basic functions of the myCobot 280 Pi robot arm in depth, provide software development guidelines, and show successful application cases to help you understand how to effectively integrate myCobot 280 Pi into various applications. In addition, we also provide a wealth of support and service information to ensure that you can get the necessary help when you encounter any technical challenges.
 
 Document Description
 ---
