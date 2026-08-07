@@ -2,5 +2,6 @@
   background: url("../photo/logo.png") no-repeat center !important;
   background-size: contain !important;
   width: 180px !important;
-  height: 75px !important;
+  height: 50px !important;
+  margin-top: 5px !important;
 }
