@@ -8,7 +8,7 @@ REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 BRANCH="gh-pages"
 
 echo "=== 安装插件 ==="
-for book in mycobot_280_M5_10th_cn mycobot_280_M5_10th_en mycobot_280_PI_10th_cn mycobot_280_PI_10th_en; do
+for book in myCobot_280_X_Edition_M5_cn myCobot_280_X_Edition_M5_en myCobot_280_X_Edition_Pi_cn myCobot_280_X_Edition_Pi_en; do
   gitbook install "$REPO_DIR/$book" 2>/dev/null
 done
 
@@ -21,7 +21,7 @@ cp "$REPO_DIR/index.html" "$REPO_DIR/docs/index.html"
 
 echo ""
 echo "=== 构建 GitBook ==="
-for book in mycobot_280_M5_10th_cn mycobot_280_M5_10th_en mycobot_280_PI_10th_cn mycobot_280_PI_10th_en; do
+for book in myCobot_280_X_Edition_M5_cn myCobot_280_X_Edition_M5_en myCobot_280_X_Edition_Pi_cn myCobot_280_X_Edition_Pi_en; do
   echo "--- 构建 $book ---"
   gitbook build "$REPO_DIR/$book" "$REPO_DIR/docs/$book"
   echo "完成: $book"
@@ -42,4 +42,4 @@ git checkout main
 
 echo ""
 echo "=== 部署完成 ==="
-echo "GitHub Pages 地址: https://elephantrobotics.github.io/mycobot_280-X_Edition_M5_docs"
+echo "GitHub Pages 地址: https://elephantrobotics.github.io/myCobot_280-X_Edition_docs"
