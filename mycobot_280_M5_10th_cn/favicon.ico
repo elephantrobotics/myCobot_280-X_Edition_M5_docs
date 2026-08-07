@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>InvalidArgument</Code>
+  <Message>The characters encoding must be utf-8.</Message>
+  <RequestId>6A75322D4F5FBB3737F54FC6</RequestId>
+  <HostId>elephantrobotics.oss-cn-beijing.aliyuncs.com</HostId>
+  <ArgumentName>object</ArgumentName>
+  <ArgumentValue>wp-content/uploads/2022/06/cropped-´óÏólogo-1.png</ArgumentValue>
+  <EC>0016-00000004</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0016-00000004</RecommendDoc>
+</Error>
