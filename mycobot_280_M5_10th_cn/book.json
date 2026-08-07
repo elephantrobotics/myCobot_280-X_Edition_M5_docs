@@ -26,5 +26,8 @@
       "favicon": "./favicon.ico"
     },
     "password": {}
+  },
+  "styles": {
+    "website": "styles/website.css"
   }
 }
