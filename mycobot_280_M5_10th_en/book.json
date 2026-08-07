@@ -12,6 +12,9 @@
     "-sharing",
 	"klipse"
   ],
+  "styles": {
+    "website": "styles/website.css"
+  },
   "variables": {
         "themeFexa":{
             "showHome": false,

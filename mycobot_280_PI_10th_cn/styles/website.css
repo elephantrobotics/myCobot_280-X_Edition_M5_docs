@@ -1,0 +1,4 @@
+.header-inner .logo {
+  background: url('/photo/logo.png') no-repeat center;
+  background-size: contain;
+}
