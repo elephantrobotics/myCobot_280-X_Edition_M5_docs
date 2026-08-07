@@ -1,9 +1,4 @@
-# myCobot 280 Pi
-The world's smallest collaborative robot
-
----
-
-## myCobot 280 X Edition - Pi (10th Anniversary Limited Edition Robotic Arm)
+# myCobot 280 X Edition - Pi (10th Anniversary Limited Edition Robotic Arm)
 
 <img src = "resources/10th/MYCOBOT_280_X_Edition_PI.png" align = "center">
 

@@ -1,9 +1,4 @@
-# myCobot 280 Pi
-世界最小协作机器人
-
----
-
-## myCobot 280 X Edition - Pi（10周年限量版机械臂）
+# myCobot 280 X Edition - Pi（10周年限量版机械臂）
 
 <img src = "resources/10th/MYCOBOT_280_X_Edition_PI.png" align = "center">
 

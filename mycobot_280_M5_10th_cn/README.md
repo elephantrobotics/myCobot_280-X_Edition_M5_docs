@@ -1,9 +1,4 @@
-# myCobot 280 M5
-世界最小协作机器人
-
----
-
-## myCobot 280 X Edition - M5（10周年限量版机械臂）
+# myCobot 280 X Edition - M5（10周年限量版机械臂）
 
 <img src = "resources/10th/MYCOBOT_280_X_Edition_M5.png" align = "center">
 

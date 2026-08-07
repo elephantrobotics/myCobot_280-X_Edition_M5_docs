@@ -1,9 +1,4 @@
-# myCobot 280 M5
-The world's smallest collaborative robot
-
----
-
-## myCobot 280 X Edition - M5 (10th Anniversary Limited Edition Robotic Arm)
+# myCobot 280 X Edition - M5 (10th Anniversary Limited Edition Robotic Arm)
 
 <img src = "resources/10th/MYCOBOT_280_X_Edition_M5.png" align = "center">
 
